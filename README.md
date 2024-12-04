@@ -1,5 +1,6 @@
 # Candas2
 This is a project inspired on the original Candas library by https://gist.github.com/JulianWgs, a blf file can be handle in a faster way using python data science classical libraries.
+This project is licensed under the **GNU Affero General Public License (AGPL)**. By adopting this license, we ensure that any modifications or derivatives of this library are made publicly available, and that appropriate credit is given to the original
 
 # Installation
 ```
