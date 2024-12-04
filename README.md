@@ -1,12 +1,12 @@
 # Candas2
 This is a project inspired on the original Candas library by https://gist.github.com/JulianWgs, a blf file can be handle in a faster way using python data science classical libraries.
 
-#Instalation
+# Installation
 ```
 pip install candas2
 ```
 
-#Import module
+# Import module
 ```python
 import candas2
 ```
@@ -19,7 +19,7 @@ The blf filepath should be provided.
 blf = Candas(r'C:\Users\Folder\file.blf')
 ```
 
-#ID Filtering
+# ID Filtering
 IDs are filtered to allow for targeted analysis, ensuring only relevant data is processed.
 id_filter --> str
 
@@ -27,7 +27,7 @@ id_filter --> str
 blf.id_filtering(id_filter)
 ```
 
-#Time revision between each ID
+# Time revision between each ID
 The time interval between each ID is reviewed to ensure accurate temporal analysis and synchronization.
 
 period_time(int) --> The time period between each ID, measured in milliseconds, is analyzed to ensure precise timing and synchronization in the data.
