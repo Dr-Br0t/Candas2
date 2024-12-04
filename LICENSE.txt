@@ -1,1 +1,15 @@
-This library is licensed under the GNU Affero General Public License (AGPL). This license ensures that any derivative work or use of this library must give appropriate credit to the original author. Additionally, this library cannot be used in the creation of proprietary software.
+# License and Acknowledgements
+
+## License
+
+This project is licensed under the **GNU Affero General Public License (AGPL)**. By adopting this license, we ensure that any modifications or derivatives of this library are made publicly available, and that appropriate credit is given to the original authors.
+
+## Acknowledgements
+
+In the creation of this library, we have utilized and integrated several other open-source libraries. We acknowledge and appreciate the invaluable contributions of these libraries and their developers, which have significantly aided in the development of this project.
+
+## Restrictions
+
+Please note that this library is **not to be used** for the creation of proprietary or closed-source software. The AGPL license mandates that any software that interacts with this library, even over a network, must also be released under the same license terms, thereby ensuring that the software remains free and open-source.
+
+For more details, please refer to the full text of the [AGPL](https://www.gnu.org/licenses/agpl-3.0.html).
