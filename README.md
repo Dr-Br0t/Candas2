@@ -5,9 +5,9 @@ This is a project inspired on the original Candas library by https://gist.github
 The CAN file in BLF format is automatically converted into a DataFrame for subsequent processing.
 The blf filepath should be provided.
 
-'''
+"""
 blf = Candas(r'C:\Users\Folder\file.blf')
-'''
+"""
 
 #ID Filtering
 IDs are filtered to allow for targeted analysis, ensuring only relevant data is processed.
