@@ -10,6 +10,21 @@ The blf filepath should be provided.
 blf = Candas(r'C:\Users\Folder\file.blf')
 \```
 
+\```dart
+void main() {
+  print(suma());
+  print(suma(a: 23, b: 45));
+
+  print(mul());
+  print(mul(x: 23, y: 12));
+}
+
+int suma({int a = 4, int b = 5}) => a + b;
+
+int mul({int x = 7, int y = 5}) => x * y;
+\```
+
+
 #ID Filtering
 IDs are filtered to allow for targeted analysis, ensuring only relevant data is processed.
 id_filter --> str
